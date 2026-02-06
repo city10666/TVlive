@@ -2,7 +2,8 @@ ip_version_priority = "ipv4"
 
 source_urls = [   
     "https://l.gmbbk.com/upload/39183918.txt",#ADDED BY FEIYANG
-    "https://ipv.qq1000.site/IPTV.txt",
+    "https://ipv.qq1000.site/IPTV.txt",#ADDED BY lolo
+    "https://14613.kstore.space/js.txt",#ADDED BY lolo
     "http://tv.850930.xyz/cvd1.m3u", #ADDED BY LEM ON 02/11/2025
     "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt", #ADDED BY LEM ON 02/11/2025
     "http://tv.850930.xyz/bc.m3u", #ADDED BY LEM ON 02/11/2025 
