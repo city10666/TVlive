@@ -2,14 +2,14 @@
 雷蒙影视直播,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
 CrimeTV LIVE,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 更新日期,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-2026-03-01,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
+2026-03-02,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 🇨🇳央视,#genre#
 CCTV-1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$梁雨轩•IPV4『线路1』
 CCTV-1综合,http://play.kankanlive.com/live/1698234869325962.m3u8$梁雨轩•IPV4『线路2』
 CCTV-2财经,http://116.115.6.103:1234/631780532?reptoken=R/mg&auth=$梁雨轩•IPV4
 CCTV-3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub$梁雨轩•IPV4
-CCTV-4中文国际,http://116.115.6.103:1234/631780421?reptoken=R/mg&auth=$梁雨轩•IPV4
-CCTV-5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$梁雨轩•IPV4
+CCTV-5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$梁雨轩•IPV4『线路1』
+CCTV-5体育,http://116.115.6.103:1234/641886683?reptoken=R/mg&auth=$梁雨轩•IPV4『线路2』
 CCTV-5+体育赛事,http://116.115.6.103:1234/641886773?reptoken=R/mg&auth=$梁雨轩•IPV4
 CCTV-6电影,http://116.115.6.103:1234/624878396?reptoken=R/mg&auth=$梁雨轩•IPV4
 CCTV-8电视剧,http://116.115.6.103:1234/624878356?reptoken=R/mg&auth=$梁雨轩•IPV4
@@ -17,8 +17,7 @@ CCTV-11戏曲,http://116.115.6.103:1234/667987558?reptoken=R/mg&auth=$梁雨轩�
 CCTV-13新闻,http://pull-hls-f26.douyincdn.com/media/stream-695395192179262124.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69acd116&major_anchor_level=common&sign=fe2032f1715898d3111f9e5417cf4321&t_id=037-20260301092957E62EF27526A11E456A49-CNRxcf$梁雨轩•IPV4『线路1』
 CCTV-13新闻,http://116.115.6.103:1234/608807423?reptoken=R/mg&auth=$梁雨轩•IPV4『线路2』
 CCTV-15音乐,http://116.115.6.103:1234/673168223?reptoken=R/mg&auth=$梁雨轩•IPV4
-CCTV-16奥林匹克,http://69.30.246.194/live/cctv16.m3u8$梁雨轩•IPV4『线路1』
-CCTV-16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$梁雨轩•IPV4『线路2』
+CCTV-16奥林匹克,http://69.30.246.194/live/cctv16.m3u8$梁雨轩•IPV4
 🇨🇳高清,#genre#
 📡卫视,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$梁雨轩•IPV4『线路1』
